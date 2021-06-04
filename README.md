@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django and Python Libraries**
 
-- 💬 Ask me about **c , c++ , core java and pyhton**
+- 💬 Ask me about **c , c++ , core java and python**
 
 - 📫 How to reach me **vidyasurbhi@gmail.com**
 
