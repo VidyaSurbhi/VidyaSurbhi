@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyasurbhi&label=Profile%20views&color=0e75b6&style=flat" alt="vidyasurbhi" /> </p>
 
-- 🔭 I’m currently working on [TO_DO List](https://github.com/VidyaSurbhi/TO_DO-List)
+- 🔭 I’m currently working on Many Projects.
 
 - 🌱 I’m currently learning **Django and Python Libraries**
 
